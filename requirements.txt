@@ -1,0 +1,9 @@
+discord.py
+google-generativeai
+faiss-cpu
+sentence-transformers
+numpy
+duckduckgo-search
+langdetect
+requests
+Pillow
